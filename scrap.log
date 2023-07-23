@@ -1,0 +1,20 @@
+werkzeug INFO  * Restarting with watchdog (windowsapi)
+werkzeug WARNING  * Debugger is active!
+werkzeug INFO  * Debugger PIN: 128-747-753
+werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+werkzeug INFO 127.0.0.1 - - [23/Jul/2023 16:25:44] "GET / HTTP/1.1" 200 -
+werkzeug INFO 127.0.0.1 - - [23/Jul/2023 16:25:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug INFO  * Detected change in 'C:\\Users\\ashut\\AppData\\Roaming\\Python\\Python39\\site-packages\\pymongo\\settings.py', reloading
+werkzeug INFO  * Detected change in 'C:\\anaconda3\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+werkzeug INFO  * Detected change in 'C:\\anaconda3\\Lib\\http\\server.py', reloading
+werkzeug INFO  * Detected change in 'C:\\anaconda3\\Lib\\socketserver.py', reloading
+werkzeug INFO  * Detected change in 'C:\\anaconda3\\Lib\\threading.py', reloading
+werkzeug INFO 127.0.0.1 - - [23/Jul/2023 16:26:01] "POST /review HTTP/1.1" 200 -
+werkzeug INFO 127.0.0.1 - - [23/Jul/2023 16:26:01] "[33mGET /style.css HTTP/1.1[0m" 404 -
+werkzeug INFO  * Restarting with watchdog (windowsapi)
+werkzeug WARNING  * Debugger is active!
+werkzeug INFO  * Debugger PIN: 128-747-753
+werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+werkzeug INFO 127.0.0.1 - - [23/Jul/2023 16:27:19] "POST /review HTTP/1.1" 200 -
+werkzeug INFO 127.0.0.1 - - [23/Jul/2023 16:27:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+werkzeug INFO 127.0.0.1 - - [23/Jul/2023 16:27:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
