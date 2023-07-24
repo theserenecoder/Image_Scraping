@@ -88,7 +88,7 @@ def index():
         
         except Exception as e:
             logging.error(e)
-            return "Something is wrong"
+            return "Something is wrong {}".format(e)
     
     else:
         return render_template('index.html')
